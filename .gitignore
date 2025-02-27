@@ -1,0 +1,7 @@
+#   ignore all '.bone' files
+
+*.bone
+
+#  Ignore   '.codenet; files
+
+*.codenet
